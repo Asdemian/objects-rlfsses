@@ -55,6 +55,7 @@ public class Book {
         return yearOfPublication == book.yearOfPublication &&
                 Objects.equals(bookName, book.bookName) &&
                 Objects.equals(author, book.author);
+
     }
 
     @Override

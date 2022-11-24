@@ -28,6 +28,7 @@ public class Main {
         System.out.println(garrison2.hashCode());
         System.out.println(maskarad.hashCode());
         System.out.println(stalnaiakrisa.hashCode());
+
     }
 
 }
